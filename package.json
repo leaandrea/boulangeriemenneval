@@ -16,9 +16,11 @@
     "react-icons": "^3.11.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "rsuite": "^4.8.0",
-    "serve": "^14.2.3"
+    "serve": "^14.2.3",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
   },
   "scripts": {
     "dev": "react-scripts start",
